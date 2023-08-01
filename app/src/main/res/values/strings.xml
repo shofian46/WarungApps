@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Warung Fikri</string>
+    <string name="kode_n_n">Kode\n\n</string>
+    <string name="product_n_n">Product\n\n</string>
+    <string name="harga_n_n">Harga\n\n</string>
+    <string name="print_order">Print Order</string>
+    <string name="order">Order</string>
+    <string name="enter_kode">Enter Kode</string>
+    <string name="enter_product">Enter Product</string>
+    <string name="enter_price">Enter Price</string>
+    <string name="enter_date">Enter Date</string>
+    <string name="enter_time">Enter Time</string>
+    <string name="name">Shofian Al Fikri</string>
+    <string name="mail">Shofianal28@gmail.com</string>
+    <string name="about">Android Developer Extraordinare</string>
+    <string name="_6285591467429">+6285591467429</string>
+    <string name="_085591467429">+6285591467429</string>
+    <string name="androiddev">AndroidDev</string>
+    <string name="next">Call</string>
+    <string name="pdf">Generate PDF</string>
+</resources>
